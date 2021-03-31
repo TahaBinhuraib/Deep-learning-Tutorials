@@ -1,6 +1,6 @@
 # Deep Learning Tutorials
 
-### The main resource used is *"Dive into Deep Learning"* : http://d2l.ai 
+### The main resource used is *"Dive into Deep Learning"* : https://d2l.ai 
 
 #### Extra resources include:
 
